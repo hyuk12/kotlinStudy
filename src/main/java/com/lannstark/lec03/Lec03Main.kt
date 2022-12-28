@@ -1,7 +1,7 @@
 package com.lannstark.lec03
 
 // 자바에서는 암묵적으로 형변환이 가능했지만 코틀린에서는 명시적으로 표시를 꼭 해줘야 타입이 변환 가능하다.
-
+// 예를 들어 int 인 정수가 Long 에 바로 들어갈 수 있는 경우 . 코틀린에선 불가능 하다. 무조건 명시해주어야 한다.
 fun main () {
     val str1 = "ABC"
     println(str1[1])
