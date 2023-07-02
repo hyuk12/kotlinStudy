@@ -1,4 +1,6 @@
-package com.lannstark.lec01
+package lec01
+
+import com.lannstark.lec01.Person
 
 fun main() {
 
