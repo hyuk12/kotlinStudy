@@ -1,4 +1,6 @@
-package com.lannstark.lec02
+package lec02
+
+import com.lannstark.lec02.Person
 
 fun main() {
 //    println(startsWidth(null))

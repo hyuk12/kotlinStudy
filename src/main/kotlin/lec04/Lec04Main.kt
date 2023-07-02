@@ -1,4 +1,6 @@
-package com.lannstark.lec04
+package lec04
+
+import com.lannstark.lec04.JavaMoney
 
 fun main() {
 
